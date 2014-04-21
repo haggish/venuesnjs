@@ -1,7 +1,7 @@
 {
-  "name": "kak",
+  "name": "venuesnjs",
   "version": "0.0.0",
-  "main": "lib/kak.js",
+  "main": "lib/spree.js",
   "description": "Teh Sukc",
   "homepage": "https://github.com//kak",
   "bugs": "https://github.com//kak/issues",

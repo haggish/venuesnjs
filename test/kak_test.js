@@ -1,6 +1,6 @@
 'use strict';
 
-var kak = require('../lib/kak.js');
+var kak = require('../lib/spree.js');
 
 /*
   ======== A Handy Little Nodeunit Reference ========
@@ -30,7 +30,7 @@ exports.kak = {
   'no args': function(test) {
     test.expect(1);
     // tests here
-    test.equal(kak.awesome(), 'awesome', 'should be awesome.');
+    test.equal(spree.awesome(), 'awesome', 'should be awesome.');
     test.done();
   }
 };
